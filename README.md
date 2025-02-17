@@ -1,0 +1,1 @@
+This repository contains a MATLAB function that exhibits unexpected behavior when the input is exactly 10. The bug is described in `bug.m`, and the solution is provided in `bugSolution.m`.  The issue arises from how the conditional statement handles the boundary case. The solution clarifies the condition to explicitly handle the case where the input is 10.
